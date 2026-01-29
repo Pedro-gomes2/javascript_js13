@@ -11,7 +11,7 @@ console.log("==========================================");
 let saldo = 1000;
 let operacao;
 
-let codigo = leia.questionInt("Digite a Operação desejada: ");
+let codigo = leia.questionInt("Digite a Operacao desejada: ");
 
 switch (codigo) {
     case 1:
