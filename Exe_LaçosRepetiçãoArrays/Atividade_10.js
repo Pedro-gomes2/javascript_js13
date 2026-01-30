@@ -23,3 +23,4 @@ console.log("\nMedias dos participantes:");
 for (let i = 0; i < medias.length; i++) {
     console.log(`Participante ${i + 1}: ${medias[i].toFixed(1)}`);
 }
+
